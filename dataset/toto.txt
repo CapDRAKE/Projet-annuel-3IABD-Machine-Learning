@@ -1,6 +1,0 @@
--> Add more picture in train of : Forest/Montain/City/beach
-PS : 50% bad and 50% beautiful
-
--> Create folder test with some of picture
--> Add more picture in test of : Forest/Montain/City/beach
-PS : 50% bad and 50% beautiful
